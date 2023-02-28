@@ -27,6 +27,8 @@
 <img align="center" alt="Rafa-CSS" height="250" src="https://user-images.githubusercontent.com/118222979/221746742-f9459205-15e6-460c-92aa-17f0f1ba31ec.gif">
 </div>
 
+![snake gif](https://github.com/rafaelbcabral/rafaelbcabral/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 
