@@ -23,12 +23,7 @@
   <a href = "mailto:rafael1311cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-cabral1311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div style="display: inline_block">
-<img align="center" alt="Rafa-CSS" height="250" src="https://user-images.githubusercontent.com/118222979/221746742-f9459205-15e6-460c-92aa-17f0f1ba31ec.gif">
-</div>
-
-  ![Snake animation](https://github.com/rafaelbcabral/rafaelbcabral/blob/output/github-contribution-grid-snake.svg)
-
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelbcabral&theme=gotham)
 
 ##
 
