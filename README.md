@@ -3,6 +3,7 @@
 - 🕹️ I’m currently working on Front-End
 - 📫 How to reach me: rafael1311cabral@gmail.com
 - 🔋 I'm currently studying Typescript and JavaScript 
+- 📖 Information Systems Bachelor's student at CEFET/NF.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
