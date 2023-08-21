@@ -2,7 +2,7 @@
 
 - 🕹️ I’m currently working on Front-End
 - 📫 How to reach me: rafael1311cabral@gmail.com
-- 🔋 I'm currently studying Typescript and JavaScript 
+- 🔋 I'm currently studying PHP and JavaScript 
 - 📖 Information Systems Bachelor's student at CEFET/NF.
 
 <div style="display: inline_block"><br>
