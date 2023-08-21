@@ -24,8 +24,6 @@
   <a href = "mailto:rafael1311cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-cabral1311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelbcabral&bg_color=0d1117&color=003e94&line=151448&point=0c25a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ##
 
 
