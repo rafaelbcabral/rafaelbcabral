@@ -54,6 +54,6 @@
 </a>
 
 
-![rafaelbcabral Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelbcabral&custom_title=rafaelbcabral%20GitHub%20Activity%20Graph&bg_color=0D1117&color=db0019&line=db0019&point=db0019&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![rafaelbcabral Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelbcabral&custom_title=rafaelbcabral%20GitHub%20Activity%20Graph&bg_color=0D1117&color=f85d7f&line=f85d7f&point=f85d7f&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
