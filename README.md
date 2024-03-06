@@ -27,7 +27,7 @@
 
 #### Principais Portfólios -
 [![movie-star](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=movie-star&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/movie-star)
-[![catalogo-ajax](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=catalogo-ajax_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/catalogo-ajax)
+[![catalogo-ajax](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=catalogo-ajax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/catalogo-ajax)
 [![livraria-api](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=livraria-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/livraria-api)
 [![agenda-telefonica](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=agenda-telefonica&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/agenda-telefonica)
 
