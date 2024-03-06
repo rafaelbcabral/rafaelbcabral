@@ -1,31 +1,24 @@
-## Hi! My name is Rafael Botelho Cabral and you are on my GitHub page!
+## Hi, my name is Rafael Cabral, Welcome! 🎈
 
-- 🕹️ I’m currently working on Front-End
-- 📫 How to reach me: rafael1311cabral@gmail.com
-- 🔋 I'm currently studying PHP and JavaScript 
-- 📖 Information Systems Bachelor's student at CEFET/NF.
+- 📕 I'm currently studying JavaScript and his frameworks.
+- 📫 How to reach me: rafael1311cabral@gmail.com.
+- 📍 Information Systems Bachelor's student at CEFET/NF.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Rafa-springJAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
-  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<div style="display: inline_block; text-align: center;"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 <br>
 <br>
 </div>
 
-![Rafael Cabral's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbcabral&show_icons=true&theme=transparent)
-
-<a href="https://www.youtube.com/watch?v=487O5XJXMPc&t=1s&ab_channel=Rafael" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/cabralrafael23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5522988103858"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank"></a> 
 
-## Principais Portfólios -
+## Main Portfolios
 [![movie-star](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=movie-star&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/movie-star)
 [![catalogo-ajax](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=catalogo-ajax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/catalogo-ajax)
 [![livraria-api](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=livraria-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/livraria-api)
