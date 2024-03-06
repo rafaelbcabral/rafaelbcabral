@@ -18,13 +18,6 @@
   <a href = "https://wa.me/5522988103858"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank"></a> 
 
-## Main Portfolios
-[![movie-star](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=movie-star&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/movie-star)
-[![agenda-telefonica](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=agenda-telefonica&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/agenda-telefonica)
-[![catalogo-ajax](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=catalogo-ajax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/catalogo-ajax)
-[![livraria-api](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=livraria-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/livraria-api)
-
-
 <br/>
 <hr/>
 <br/>
