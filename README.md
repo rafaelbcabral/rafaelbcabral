@@ -1,4 +1,4 @@
-<h1 style="text-align: center; ">## Hi, my name is Rafael Cabral, Welcome! 🎈
+<a style="text-align: center; ">## Hi, my name is Rafael Cabral, Welcome! 🎈
 
 - 📕 I'm currently studying JavaScript and his frameworks.
 - 📫 How to reach me: rafael1311cabral@gmail.com.
@@ -17,7 +17,7 @@
 
   <a href = "https://wa.me/5522988103858"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank"></a> 
-</h1>
+</a>
 ## Main Portfolios
 [![movie-star](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=movie-star&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/movie-star)
 [![catalogo-ajax](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=catalogo-ajax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/catalogo-ajax)
