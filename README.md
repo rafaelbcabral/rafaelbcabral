@@ -17,7 +17,7 @@
 
 <br>
   <a href = "https://wa.me/5522988103858"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=grey&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafael1311cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
