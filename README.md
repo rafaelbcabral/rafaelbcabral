@@ -25,15 +25,11 @@
   <a href = "https://wa.me/5522988103858"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-#### Principais Portfólios -
+## Principais Portfólios -
 [![movie-star](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=movie-star&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/movie-star)
 [![catalogo-ajax](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=catalogo-ajax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/catalogo-ajax)
 [![livraria-api](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=livraria-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/livraria-api)
 [![agenda-telefonica](https://github-readme-stats.vercel.app/api/pin/?username=rafaelbcabral&repo=agenda-telefonica&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rafaelbcabral/agenda-telefonica)
-
-<p align="left">
-  <a href="https://github.com/rafaelbcabral?tab=repositories" target="_blank"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
@@ -58,6 +54,6 @@
 </a>
 
 
-![rafaelbcabral Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![rafaelbcabral Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelbcabral&custom_title=rafaelbcabral%20GitHub%20Activity%20Graph&bg_color=0D1117&color=db0019&line=db0019&point=db0019&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
