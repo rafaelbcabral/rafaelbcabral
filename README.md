@@ -23,8 +23,6 @@
 
 <h1></h1>
 
-![rafaelbcabral Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelbcabral&custom_title=rafaelbcabral%20GitHub%20Activity%20Graph&bg_color=0D1117&color=#4682B4&line=#4682B4&point=#4682B4&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 <a> 
     <a href="https://github.com/rafaelbcabral"><img alt="rafaelbcabral Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaelbcabral&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/rafaelbcabral"><img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
