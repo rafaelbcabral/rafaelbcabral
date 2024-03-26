@@ -3,7 +3,6 @@
 
 - 📕 I'm currently studying JavaScript and his frameworks.
 - 📫 If you have any questions or would like to get in touch: <a href="mailto:rafael1311cabral@gmail.com?subject=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub%20%F0%9F%91%8D" style="text-decoration: none;">📨</a>
-
 - 📍 Information Systems Bachelor's student at CEFET/RJ college.
 
 <div style="display: inline_block; margin-left: 2.5%;;"><br>
