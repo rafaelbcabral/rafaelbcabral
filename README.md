@@ -30,8 +30,9 @@
 </a>
 <br>
 <p align="center">
-  <a href="https://github.com/rafaelbcabral"><img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=333333&bg_color=0D1117&title_color=FFFFFF&icon_color=00BFFF&text_color=FFFFFF&hide_border=true" height="200px" width="100%"/></a>
+  <a href="https://github.com/rafaelbcabral"><img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=333333&bg_color=0D1117&title_color=FFFFFF&icon_color=00BFFF&text_color=FFFFFF&hide_title=false" height="200px" width="100%"/></a>
 </p>
+
 
 
 
