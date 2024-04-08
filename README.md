@@ -1,5 +1,5 @@
-## <b>Hi, my name is Rafael, Welcome!</b> 🎈
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0000&random=false&width=435&height=40&lines=Hi%2C+my+name+is+Rafael%2C+Welcome+%F0%9F%8E%88)](https://git.io/typing-svg)
+## <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0000&random=false&width=435&height=40&lines=Hi%2C+my+name+is+Rafael%2C+Welcome+%F0%9F%8E%88)](https://git.io/typing-svg)</b> 🎈
+
 
 
 <img align="right" alt="Artorias - Dark Souls" style="float: right; margin-left: 20px; margin-bottom: 20px; filter:drop-shadow(10px 8px 6px #0051ff)" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/de6ft4m-d3c2c205-0703-4c65-ab6d-d51cf693c3c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGU2ZnQ0bS1kM2MyYzIwNS0wNzAzLTRjNjUtYWI2ZC1kNTFjZjY5M2MzYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i-KLR2Hf3i7E9iAsVdx4jQ4opMnesc_EzzvbvKhOS98" height="150" width="300" height="300">
