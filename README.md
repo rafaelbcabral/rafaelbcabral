@@ -1,7 +1,4 @@
-## <b>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=25&center=true&vCenter=true&lines=Hi%2C+my+name+is+Rafael%2C+Welcome+%F0%9F%8E%88)](https://git.io/typing-svg)
-
-
-</b> 
+## <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Bold&pause=1000&color=4E99F7&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+Rafael%2C+Welcome!+%F0%9F%8E%88)](https://git.io/typing-svg)</b> 
 
 
 
