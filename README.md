@@ -1,4 +1,4 @@
-## <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ADD8E6&random=false&width=435&height=40&lines=Hi%2C+my+name+is+Rafael%2C+Welcome+🎈)](https://git.io/typing-svg)
+## <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&random=false&width=435&height=40&lines=Hi%2C+my+name+is+Rafael%2C+Welcome+🎈)](https://git.io/typing-svg)
 </b> 
 
 
