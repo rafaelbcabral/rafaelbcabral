@@ -35,6 +35,12 @@
   <a href="https://github.com/rafaelbcabral" style="align: center">
     <img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=333333&bg_color=0D1117&title_color=FFFFFF&icon_color=00BFFF&text_color=FFFFFF&hide_title=false" height="200px" width="100%"/></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelbcabral/rafaelbcabral/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelbcabral/rafaelbcabral/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelbcabral/rafaelbcabral/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img src="https://camo.githubusercontent.com/c3bf356e4feec3f47ab371827a339ced5526a84d9eff5c44edef7fd2da7b4327/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3343414146462c3130303a356266666666266865696768743d3132302673656374696f6e3d666f6f746572"/>
 
 
