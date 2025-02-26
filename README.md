@@ -12,10 +12,14 @@
 <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg">
+<img align="center" alt="tailwind" height="40" width="40" src="https://github.com/user-attachments/assets/6578a3a9-f815-41fc-8c05-bd7adbce4895">
 <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="nestjs" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nestjs.svg">
+<img align="center" alt="nestjs" height="40" width="40" src="https://github.com/user-attachments/assets/a594730c-f915-4ad3-8f77-da339df88daa">
+<img align="center" alt="nextjs" height="40" width="40" src="https://github.com/user-attachments/assets/f1ef7029-d848-4371-8a1a-82899802d438">
+<img align="center" alt="nodejs" height="40" width="40" src="https://github.com/user-attachments/assets/50afa30b-69b2-4153-a510-63b365b220ce">
+<img align="center" alt="reactjs" height="40" width="40" src="https://github.com/user-attachments/assets/949c4899-93f0-4d00-8bd2-d136da2a871a">
+
 </div>
 
 <br>
@@ -36,13 +40,3 @@
 
 <a href="https://github.com/rafaelbcabral" style="align: center">
   <img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=333333&bg_color=0D1117&title_color=FFFFFF&icon_color=00BFFF&text_color=FFFFFF&hide_title=false" height="200px" width="100%"/></a>
-
-
-
-
-
-
-
-
-
-
