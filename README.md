@@ -7,18 +7,18 @@
 - ⛷️ Information Systems Bachelor's student at CEFET/RJ college <a href="https://www.cefet-rj.br/" style="text-decoration: none;">🎓</a>
 
 <div style="display: inline_block; margin-left: 2.5%;;"><br>
-<img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="tailwind" height="40" width="40" src="https://github.com/user-attachments/assets/6578a3a9-f815-41fc-8c05-bd7adbce4895">
-<img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="nestjs" height="40" width="40" src="https://github.com/user-attachments/assets/a594730c-f915-4ad3-8f77-da339df88daa">
-<img align="center" alt="nextjs" height="40" width="40" src="https://github.com/user-attachments/assets/f1ef7029-d848-4371-8a1a-82899802d438">
-<img align="center" alt="nodejs" height="40" width="40" src="https://github.com/user-attachments/assets/50afa30b-69b2-4153-a510-63b365b220ce">
-<img align="center" alt="reactjs" height="40" width="40" src="https://github.com/user-attachments/assets/949c4899-93f0-4d00-8bd2-d136da2a871a">
+<img align="center" alt="js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="php" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="tailwind" height="30" width="30" src="https://github.com/user-attachments/assets/6578a3a9-f815-41fc-8c05-bd7adbce4895">
+<img align="center" alt="typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="nestjs" height="30" width="30" src="https://github.com/user-attachments/assets/a594730c-f915-4ad3-8f77-da339df88daa">
+<img align="center" alt="nextjs" height="30" width="30" src="https://github.com/user-attachments/assets/f1ef7029-d848-4371-8a1a-82899802d438">
+<img align="center" alt="nodejs" height="30" width="30" src="https://github.com/user-attachments/assets/50afa30b-69b2-4153-a510-63b365b220ce">
+<img align="center" alt="reactjs" height="30" width="30" src="https://github.com/user-attachments/assets/949c4899-93f0-4d00-8bd2-d136da2a871a">
 
 </div>
 
