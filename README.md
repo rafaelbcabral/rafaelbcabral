@@ -13,7 +13,6 @@
 <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="tailwind" height="40" width="40" src="https://github.com/user-attachments/assets/6578a3a9-f815-41fc-8c05-bd7adbce4895">
-<br>
 <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="nestjs" height="40" width="40" src="https://github.com/user-attachments/assets/a594730c-f915-4ad3-8f77-da339df88daa">
