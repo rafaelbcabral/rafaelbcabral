@@ -25,18 +25,30 @@
 <br>
 
 <div style="display: inline_block; margin-left: 2.5%;">
-  <a href = "https://wa.me/5522988103858"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&background-color:grey&logo=linkedin&logoColor=blue" target="_blank"></a> 
+  <a href="https://wa.me/5522988103858" target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-b-cabral/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue">
+  </a> 
 </div>
 
 <br>
 
+<!-- Se "lineBar.png" estiver no repositório -->
 <img src="lineBar.png"/>
 
-<a href="https://github.com/rafaelbcabral">
-  <img alt="rafaelbcabral Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaelbcabral&show_icons=true&count_private=true&theme=react&border_color=333333&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="192px" width="49%"/></a>
-<a href="https://github.com/rafaelbcabral">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbcabral&theme=blue-green&border=333333&background=0D1117&fire=blue-green&currStreakNum=white&currStreakLabel=white&ring_color=white&dates=add8e6" height="192px" width="49%" alt="GitHub streak" style="margin-left: 1.5%"/></a>
+<br>
 
-<a href="https://github.com/rafaelbcabral" style="align: center">
-  <img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=333333&bg_color=0D1117&title_color=FFFFFF&icon_color=00BFFF&text_color=FFFFFF&hide_title=false" height="200px" width="100%"/></a>
+<a href="https://github.com/rafaelbcabral">
+  <img alt="rafaelbcabral Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaelbcabral&show_icons=true&count_private=true&theme=react&border_color=333333&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="192px" width="49%">
+</a>
+<a href="https://github.com/rafaelbcabral">
+  <img src="https://denvercoder1-readme-streak-stats.vercel.app/?user=rafaelbcabral&theme=blue-green&border=333333&background=0D1117&fire=blue-green&currStreakNum=white&currStreakLabel=white&ring_color=white&dates=add8e6" height="192px" width="49%" alt="GitHub streak">
+</a>
+
+<br>
+
+<a href="https://github.com/rafaelbcabral">
+  <img alt="rafaelbcabral Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcabral&langs_count=8&layout=compact&theme=react&border_color=333333&bg_color=0D1117&title_color=FFFFFF&icon_color=00BFFF&text_color=FFFFFF&hide_title=false" height="200px" width="100%">
+</a>
