@@ -6,7 +6,7 @@
 <!-- Sobre mim -->
 <p align="center">
   🎓 Bachelor's student in Information Systems at CEFET/RJ<br>
-  ⛷️ Currently studying JavaScript frameworks like <strong>Next.js</strong> and <strong>NestJS</strong><br>
+  ⛷️ Currently studying JavaScript frameworks like react, <strong>Next.js</strong> and <strong>NestJS</strong><br>
   <a href="mailto:rafael1311cabral@gmail.com?subject=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub%20%F0%9F%91%8D" style="text-decoration: none;">📫</a>
 </p>
 
